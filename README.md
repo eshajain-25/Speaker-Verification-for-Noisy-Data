@@ -8,7 +8,9 @@
 </ul>
 
 ### Speaker verification system overview
-![poster_image](https://github.com/eshajain-25/Speaker-Verification-for-Noisy-Data/assets/114498949/3b3c1d7a-8629-4995-b54c-e26711855231)
+<p align="center">
+<img src="https://github.com/eshajain-25/Speaker-Verification-for-Noisy-Data/assets/114498949/3b3c1d7a-8629-4995-b54c-e26711855231" alt="Overview of speaker verification system" width="400" > 
+</p>
 
 
 ## Methodology
