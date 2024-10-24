@@ -28,3 +28,4 @@
   <li>After careful trials on real data and observations a conclusion was made that the threshold for similarity score should be 0.5 .</li>
 </ul>
 
+#### Refer to the given pdf to understand more about whole project 
